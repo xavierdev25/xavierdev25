@@ -1,63 +1,75 @@
-<h1 align="center"><b>Hi , I'm David Montaño </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">Xavier Montaño</h1>
+
+<h3 align="center">
+Full Stack Developer | NestJS | React | PostgreSQL | Docker | MongoDB | AWS | Django | Tailwind CSS
+</h3>
 <img align="right" width="300px" alt="Cute busy unicorn animation" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Sobre mí**
+---
+Soy un **Desarrollador Full Stack** apasionado por la creación de arquitecturas escalables y productos de alto tráfico[cite: 3]. Mi enfoque se centra en la integración de **Inteligencia Artificial**, optimización de backend y desarrollo móvil de alto rendimiento[cite: 6].
 
-I am a computer engineering student, currently about to finish my degree. I am expanding my knowledge in front-end and back-end development, and I work as a web developer in a company that creates systems for other companies. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎵 listening to music, and 📖 reading science books.
-- 📫 Reach out to me at: <a href="mailto:xavierdev25@icloud.com">xavierdev25@icloud.com</a>
+* 🎓 **Educación:** Estudiante de 9º ciclo de Ingeniería de Sistemas en la Universidad César Vallejo (UCV)[cite: 10, 8].
+* 🏆 **Reconocimiento:** Ganador del 1er Puesto Internacional en Kodo Takai 2025 al "Mejor Backend"[cite: 5, 41].
+* 🛡️ **Seguridad:** Certificado en Ethical Hacking por el CTIC de la Universidad Nacional de Ingeniería[cite: 47, 54].
+* 🎸 **Fuera del código:** Me apasiona la producción musical, tocar la guitarra eléctrica y la fotografía con estilo cinematográfico.
 
-## My Skills Include
+---
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-</span>
+### 🛠️ Tecnologías y Herramientas
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" >
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" >
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" >
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" >
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" >
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
-  <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" >
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" >
-</span>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>FrontEnd</strong></td>
+    <td align="center" width="25%"><strong>BackEnd</strong></td>
+    <td align="center" width="25%"><strong>Mobile & Cloud</strong></td>
+    <td align="center" width="25%"><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<h4> Design </h4>
-<span>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" >
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" >
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" >
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" >
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" >
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" >
-</span>
+---
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+### 📁 Proyectos Destacados
 
+* **ViajaYa (Kodo Takai Int.):** Lideré el desarrollo de una solución turística con IA que genera itinerarios optimizados[cite: 37, 39]. Backend en Python (Flask) desplegado en tiempo récord con arquitectura limpia[cite: 41, 42].
+* **Telemetro Go:** Arquitectura frontend para streaming masivo con latencia de **1.2 segundos** mediante protocolos WebRTC para 100k usuarios concurrentes[cite: 27].
+* **Jaksita CRM:** Automatización de ventas con chatbot transaccional en WhatsApp, procesando **+2000 pagos diarios** y reduciendo latencia en un 75% con Redis[cite: 21, 22].
 
+---
 
+### 📈 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavierdev25&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierdev25&layout=compact&theme=dark" />
+</p>
 
-</span>
+<div align="center">
+  <a href="https://linkedin.com/xavierdev25">
+    <img src="https://img.shields.io/badge/LinkedIn-Xavier_Montaño-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:xavierdev25@icloud.com">
+    <img src="https://img.shields.io/badge/Email-xavierdev25@icloud.com-lightgrey?style=for-the-badge&logo=icloud" />
+  </a>
+</div>
