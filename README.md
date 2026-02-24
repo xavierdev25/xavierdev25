@@ -7,11 +7,11 @@ Full Stack Developer | NestJS | React | PostgreSQL | Docker | MongoDB | AWS | Dj
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Sobre mí**
 ---
-Soy un **Desarrollador Full Stack** apasionado por la creación de arquitecturas escalables y productos de alto tráfico[cite: 3]. Mi enfoque se centra en la integración de **Inteligencia Artificial**, optimización de backend y desarrollo móvil de alto rendimiento[cite: 6].
+Soy un Desarrollador Full Stack apasionado por la creación de arquitecturas escalables. Mi enfoque se centra en la integración de Inteligencia Artificial, optimización de backend y desarrollo móvil de alto rendimiento.
 
-* 🎓 **Educación:** Estudiante de 9º ciclo de Ingeniería de Sistemas en la Universidad César Vallejo (UCV)[cite: 10, 8].
-* 🏆 **Reconocimiento:** Ganador del 1er Puesto Internacional en Kodo Takai 2025 al "Mejor Backend"[cite: 5, 41].
-* 🛡️ **Seguridad:** Certificado en Ethical Hacking por el CTIC de la Universidad Nacional de Ingeniería[cite: 47, 54].
+* 🎓 **Educación:** Estudiante de 9º ciclo de Ingeniería de Sistemas en la Universidad César Vallejo (UCV).
+* 🏆 **Reconocimiento:** Ganador del 1er Puesto Internacional en Kodo Takai 2025 al "Mejor Backend".
+* 🛡️ **Seguridad:** Certificado en Ethical Hacking por el CTIC de la Universidad Nacional de Ingeniería (UNI).
 * 🎸 **Fuera del código:** Me apasiona la producción musical, tocar la guitarra eléctrica y la fotografía con estilo cinematográfico.
 
 ---
@@ -53,17 +53,11 @@ Soy un **Desarrollador Full Stack** apasionado por la creación de arquitecturas
 
 ### 📁 Proyectos Destacados
 
-* **ViajaYa (Kodo Takai Int.):** Lideré el desarrollo de una solución turística con IA que genera itinerarios optimizados[cite: 37, 39]. Backend en Python (Flask) desplegado en tiempo récord con arquitectura limpia[cite: 41, 42].
-* **Telemetro Go:** Arquitectura frontend para streaming masivo con latencia de **1.2 segundos** mediante protocolos WebRTC para 100k usuarios concurrentes[cite: 27].
-* **Jaksita CRM:** Automatización de ventas con chatbot transaccional en WhatsApp, procesando **+2000 pagos diarios** y reduciendo latencia en un 75% con Redis[cite: 21, 22].
+* **ViajaYa (Kodo Takai Int.):** Lideré el desarrollo de una solución turística con IA que genera itinerarios optimizados. Backend en Python (Flask) y NestJS desplegado en tiempo récord con arquitectura limpia.
+* **Telemetro Go:** Arquitectura frontend para streaming masivo con latencia de 1.2 segundos mediante protocolos WebRTC para 100k usuarios concurrentes.
+* **Jaksita CRM:** Automatización de ventas con chatbot transaccional en WhatsApp, procesando +2000 pagos diarios y reduciendo latencia en un 75% con Redis.
 
 ---
-
-### 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavierdev25&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierdev25&layout=compact&theme=dark" />
-</p>
 
 <div align="center">
   <a href="https://linkedin.com/xavierdev25">
