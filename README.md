@@ -1,6 +1,6 @@
 # Xavier Montaño
 
-Estudiante de quinto año de Ingeniería de Sistemas y Desarrollador Fullstack. Integro diseño UX/UI minimalista con arquitecturas escalables que incorporan IA, gestionando todo el ciclo de vida del software, desde QA hasta el despliegue en la nube. Respaldado por certificaciones de Cisco en redes y ciberseguridad, utilizo AWS, Azure DevOps y GitHub Actions para ofrecer soluciones seguras y automatizadas.
+Estudiante de quinto año de Ingeniería de Sistemas y Desarrollador Fullstack. Integro diseño UX/UI minimalista con arquitecturas escalables que incorporan IA, gestionando todo el ciclo de vida del software, desde QA hasta el despliegue en la nube. Respaldado por certificaciones de Cisco en redes y ciberseguridad, utilizo AWS, Azure DevOps y n8n para ofrecer soluciones seguras, automatizadas y orientadas a producción.
 
 # 👨‍💻 Stack tecnológico
 ### 🎨 Design & Frontend Architecture
